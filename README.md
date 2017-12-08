@@ -2,16 +2,16 @@
 
 [![npm version](https://badge.fury.io/js/unidata.svg)](https://www.npmjs.com/package/unidata)
 
-Javascript interface to the [Unicode Character Database](http://www.unicode.org/reports/tr44/) (currently using [Unicode 8.0.0](http://www.unicode.org/versions/Unicode8.0.0/)).
+Javascript interface to the [Unicode Character Database](http://www.unicode.org/reports/tr44/) (currently using [Unicode 10.0.0](http://www.unicode.org/versions/Unicode10.0.0/)).
 
-    npm install unidata --save
+    npm install unidata10 --save
 
 
 ## API
 
 Using ES6 syntax:
 
-    import {getBlocks, getCharacters} from 'unidata';
+    import {getBlocks, getCharacters} from 'unidata10';
 
 There are a few other exports (and a couple useful interfaces, if you're using TypeScript), but these are the main methods.
 
@@ -54,3 +54,5 @@ The other ten are optional.
 ## License
 
 Copyright 2015 Christopher Brown. [MIT Licensed](http://chbrown.github.io/licenses/MIT/#2015).
+
+Updated for Unicode 10.0.0 by Ben Weinshel.
