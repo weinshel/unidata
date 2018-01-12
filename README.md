@@ -1,6 +1,6 @@
 # unidata
 
-[![npm version](https://badge.fury.io/js/unidata.svg)](https://www.npmjs.com/package/unidata10)
+[![npm version](https://badge.fury.io/js/unidata10.svg)](https://www.npmjs.com/package/unidata10)
 
 Javascript interface to the [Unicode Character Database](http://www.unicode.org/reports/tr44/) (currently using [Unicode 10.0.0](http://www.unicode.org/versions/Unicode10.0.0/)).
 
